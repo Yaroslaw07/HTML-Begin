@@ -1,0 +1,26 @@
+div{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1,h2
+{
+    text-align: center;
+    font-style: bold;
+}
+
+span
+{
+    color: brown;
+    background-color: whitesmoke;
+}
+
+code
+{
+    color: brown;
+}
+
+a{
+    background-color: whitesmoke;
+    color:mediumturquoise;
+    text-decoration: none;
+}
